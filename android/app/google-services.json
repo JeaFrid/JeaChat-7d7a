@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "614378321579",
+    "firebase_url": "https://jeachat-2412d-default-rtdb.firebaseio.com",
+    "project_id": "jeachat-2412d",
+    "storage_bucket": "jeachat-2412d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614378321579:android:b43566266d2243fde5a9ee",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Jm40O61_eB-pA6T9kCbvhAfwzkKcVLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
